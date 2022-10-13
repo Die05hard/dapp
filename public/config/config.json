@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xbA7aAd918DAABE2016D0073C2E99DD889227d8F1",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0xba7aad918daabe2016d0073c2e99dd889227d8f1",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 97
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
+  "NFT_NAME": "MOKASNFT",
+  "SYMBOL": "MOKAS",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
